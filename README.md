@@ -10,7 +10,7 @@
 - 📫 How to reach me: **[harshrajput18@gmail.com]**.
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourUsername-blue?logo=linkedin)](https://www.linkedin.com/in/harsh-rajput-0542a4185/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HarshRajput-blue?logo=linkedin)](https://www.linkedin.com/in/harsh-rajput-0542a4185/)
 
 ### 🛠️ Languages and Tools:
 - **Languages:** JavaScript, C++, HTML, CSS
