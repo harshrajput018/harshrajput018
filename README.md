@@ -1,16 +1,27 @@
-## Hi there 👋
+Here's your updated profile:
 
-<!--
-**harshrajput018/harshrajput018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Hi there, I'm Harsh! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 **Full Stack Developer** | 💡 **JS, C++, MERN Stack Enthusiast** | 🚀 **Eager to Innovate & Build**
+
+- 🔭 I’m currently working on MERN projects.
+- 🌱 I’m currently learning **Spring Boot**.
+- 👯 I’m looking to collaborate on **Full Stack Projects**.
+- 💬 Ask me about **JavaScript, C++, MERN stack**.
+- 📫 How to reach me: **[harshrajput18@gmail.com]**.
+
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourUsername-blue?logo=linkedin)](https://www.linkedin.com/in/harsh-rajput-0542a4185/)
+
+### 🛠️ Languages and Tools:
+- **Languages:** JavaScript, C++, HTML, CSS
+- **Frameworks/Libraries:** React, Node.js, Express.js
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 My Projects:
+- [**Chatify**](https://github.com/yourusername/chatify) - A chat application using the MERN stack and Socket.io.
+- [**Bite Delight**](https://github.com/yourusername/bite-delight) - A restaurant-related project.
+
+
