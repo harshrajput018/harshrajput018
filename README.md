@@ -1,6 +1,3 @@
-Here's your updated profile:
-
----
 
 # Hi there, I'm Harsh! 👋
 
