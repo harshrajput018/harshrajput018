@@ -19,6 +19,6 @@
 
 ### 🚀 My Projects:
 - [**Chatify**](https://github.com/harshrajput018/Chatify) - A chat application using the MERN stack and Socket.io.
-- [**Bite Delight**](https://github.com/yourusername/bite-delight) - A restaurant-related project.
+- [**Bite Delight**](https://github.com/harshrajput018/bite-delight) - A restaurant-related project.
 
 
