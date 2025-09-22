@@ -1,24 +1,50 @@
+Hi there, I'm Harsh! 👋
+👨‍💻 Software Engineer | Full Stack Developer | Data Science Enthusiast
+💡 Python, MERN Stack, Scalable Systems
+🚀 Passionate about building impactful solutions
 
-# Hi there, I'm Harsh! 👋
+🔭 Currently working at Infosys as a Specialist Programmer (iCETS unit - scalable software & microservices).
 
-👨‍💻 **Full Stack Developer** | 💡 **JS, C++, MERN Stack Enthusiast** | 🚀 **Eager to Innovate & Build**
+🌱 Exploring containerized microservices and advanced system architectures.
 
-- 🔭 I’m currently working on MERN projects.
-- 🌱 I’m currently learning **Spring Boot**.
-- 👯 I’m looking to collaborate on **Full Stack Projects**.
-- 💬 Ask me about **JavaScript, C++, MERN stack**.
-- 📫 How to reach me: **[harshrajput18@gmail.com]**.
+👯 Open to collaborating on Full Stack, Data Science, and Scalable Systems Projects.
 
-### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HarshRajput-blue?logo=linkedin)](https://www.linkedin.com/in/harsh-rajput-0542a4185/)
+💬 Ask me about Python, JavaScript, MERN stack, Data Science, System Design.
 
-### 🛠️ Languages and Tools:
-- **Languages:** JavaScript, C++, HTML, CSS
-- **Frameworks/Libraries:** React, Node.js, Express.js
-- **Tools:** Git, GitHub, VS Code
+📫 Reach me at: harshrajput18@gmail.com
 
-### 🚀 My Projects:
-- [**Chatify**](https://github.com/harshrajput018/Chatify) - A chat application using the MERN stack and Socket.io.
-- [**Bite Delight**](https://github.com/harshrajput018/bite-delight) - A restaurant-related project.
+🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HarshRajput-blue(https://www.linkedin.com/in/harsh-rajput-0542a418 and Tools:
 
+Languages: Python, JavaScript, C, C++
 
+Frameworks/Libraries: React.js, Express.js, Flask, Node.js
+
+Web Technologies: HTML, CSS, REST APIs
+
+Databases: MongoDB, MySQL
+
+Dev Tools: Git, GitHub, Docker, VS Code, Pandas, NumPy, Scikit-learn
+
+Others: Containerization, Responsive Web Design, Microservices
+
+💼 Experience:
+Infosys Ltd. – Specialist Programmer (Nov 2024 – Present)
+
+Building workflow executors with containerized microservices.
+
+Contributing to system architecture and deployment optimization.
+
+Primus Softech LLP – Frontend Developer Intern (Jan 2024 – Jun 2024)
+
+Designed, developed, and enhanced a responsive web platform for multiple devices.
+
+🚀 My Projects:
+Chatify – Real-time chat app (MERN, Socket.io)
+
+Bite Delight – Restaurant solution platform
+
+(Add more here as projects expand!)
+
+📜 Certifications:
+Responsive Web Design – FreeCodeCamp (2022)
